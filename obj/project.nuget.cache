@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6AolhcmwkkaEhxXPTgPVEUEDy522VmTd6++EjhzU1jYVF3sUZu+uyFihLsPMlIa8MGVBTLw+IWQX/5a5aJpltg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\UNLW_Deweloper\\source\\repos\\Prakt_two\\Prakt_two\\Prakt_two.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UNLW_Deweloper\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
